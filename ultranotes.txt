@@ -1,0 +1,1 @@
+Ultranotes es una web app que te permite tomar notas rápidas que se guardan en tu navegador. A su vez, permite descargarlas en formato de texto para poder almacenarlas en tus dispositivos, como así poder eliminar todas tus notas si lo deseas, o eliminar de a una.

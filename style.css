@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    background-color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.grillaNotas{
+    display: flex; 
+    flex-direction: column;
+}
+
+.img{
+    display: flex;
+}
+
+a{
+    display: flex;
+    flex-direction: column;
+}
